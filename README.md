@@ -1,0 +1,1 @@
+# loopback-rest-connector-example
